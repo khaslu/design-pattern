@@ -16,6 +16,7 @@
 		<module>design-pattern-observer</module>
 		<module>design-pattern-factory</module>
 		<module>design-pattern-flyweight</module>
+		<module>design-pattern-memento</module>
 	</modules>
 	<properties>
 		<maven.compiler.source>1.8</maven.compiler.source>

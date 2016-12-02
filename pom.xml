@@ -12,6 +12,7 @@
 		<module>design-pattern-template-method</module>
 		<module>design-pattern-decorator</module>
 		<module>design-pattern-state</module>
+		<module>design-pattern-builder</module>
 	</modules>
 	<properties>
 		<maven.compiler.source>1.8</maven.compiler.source>

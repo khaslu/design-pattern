@@ -19,6 +19,8 @@
 		<module>design-pattern-memento</module>
 		<module>design-pattern-interpreter</module>
 		<module>design-pattern-visitor</module>
+		<module>design-pattern-bridge</module>
+		<module>design-pattern-adapter</module>
 	</modules>
 	<properties>
 		<maven.compiler.source>1.8</maven.compiler.source>

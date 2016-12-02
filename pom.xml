@@ -18,6 +18,7 @@
 		<module>design-pattern-flyweight</module>
 		<module>design-pattern-memento</module>
 		<module>design-pattern-interpreter</module>
+		<module>design-pattern-visitor</module>
 	</modules>
 	<properties>
 		<maven.compiler.source>1.8</maven.compiler.source>

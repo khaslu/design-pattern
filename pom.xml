@@ -21,6 +21,7 @@
 		<module>design-pattern-visitor</module>
 		<module>design-pattern-bridge</module>
 		<module>design-pattern-adapter</module>
+		<module>design-pattern-command</module>
 	</modules>
 	<properties>
 		<maven.compiler.source>1.8</maven.compiler.source>
